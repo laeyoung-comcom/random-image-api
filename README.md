@@ -8,7 +8,10 @@
 
 ## Getting started
 
-**Live Version:** https://random-image-api.herokuapp.com/
+**Live Version:** 
+
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/laeyoung-comcom/random-image-api)
+
 
 ```
 $ git clone https://github.com/OblivionSan/random-image-api.git
